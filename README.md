@@ -7,7 +7,7 @@ Prototipo independiente de una plataforma de gestión de asistencia para program
 ## Funciones implementadas
 
 - Gestión de programas, matrícula y calendario lectivo.
-- Registro de asistencias, ausencias, retrasos y salidas anticipadas, con autoguardado por fila.
+- Registro de asistencias, ausencias, retrasos con autoguardado por fila.
 - Solicitudes y revisión de justificantes.
 - Semáforos de seguimiento semanal con publicación selectiva de comentarios.
 - Paneles según rol, notificaciones internas y registros de auditoría.
@@ -50,8 +50,8 @@ Consulta [docs/SECURITY_REVIEW.md](docs/SECURITY_REVIEW.md). En particular, el m
 
 ## Origen y alcance
 
-Proyecto demostrativo de gestión educativa. Los usuarios y cursos del conjunto de ejemplo son ficticios. La nomenclatura técnica heredada en algunos campos (`gpf_student_id`) se conserva temporalmente para evitar modificaciones innecesarias al esquema; representa un **identificador externo genérico**, no una integración operativa con terceros.
+Proyecto demostrativo de gestión educativa. Los usuarios y cursos del conjunto de ejemplo son ficticios.
 
 ## Licencia
 
-No se incluye licencia de reutilización hasta confirmar la titularidad y seleccionar una licencia apropiada. La publicación pública del código no implica cesión de derechos para su reutilización.
+No 
