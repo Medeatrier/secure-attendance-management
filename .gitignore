@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+# Django state and private uploads
+*.sqlite3
+*.sqlite3-*
+media/
+staticfiles/
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
